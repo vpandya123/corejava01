@@ -1,4 +1,4 @@
-package com.digitek.mathoperations;
+package com.digitak.MathOperations;
 
 import org.junit.Assert;
 import org.junit.Test;
